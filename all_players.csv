@@ -1,0 +1,574 @@
+Player,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon
+Alexandru Pașcanu,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,CB,90,0,0,0,0,0,0,1,0,2,2,0,0,1,1,0,0.0,0.0
+Alexandru Pașcanu,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,CB,78,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0.0
+Alexandru Pașcanu,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,CB,10,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0
+Alexandru Pașcanu,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,CB,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Alexandru Pașcanu,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Pașcanu,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0
+Andrei Borza,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,LB,75,0,0,0,0,0,0,0,0,1,0,0,2,1,4,0,0.0,0.0
+Andrei Borza,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,LB,17,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0.0,0.0
+Andrei Borza,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,LB,90,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0.0,0.0
+Andrei Borza,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,LB,64,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0.0,0.0
+Andrei Borza,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,LB,89,0,1,0,0,5,1,0,0,0,0,0,1,3,0,0,0.0,0.0
+Andrei Borza,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,LB,90,0,0,0,0,2,0,0,0,0,0,0,2,1,0,0,0.0,0.0
+Andrei Borza,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,LB,90,0,0,0,0,1,1,0,0,2,0,0,4,1,1,0,0.0,0.0
+Andrei Borza,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,LB,90,0,1,0,0,0,0,0,0,0,2,0,2,2,1,0,0.0,0.0
+Antoine Baroan,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,FW,24,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Antoine Baroan,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,FW,45,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0.0,0.0
+Antoine Baroan,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,FW,90,0,0,0,0,4,0,0,0,1,2,0,0,1,0,0,0.0,0.0
+Antoine Baroan,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,FW,69,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+Antoine Baroan,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,FW,25,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0.0,0.0
+Antoine Baroan,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,FW,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Antoine Baroan,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,FW,28,0,0,0,0,1,1,0,0,1,2,0,0,0,0,0,0.0,0.0
+Catalin Vulturar,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Catalin Vulturar,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,DM,16,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.0
+Catalin Vulturar,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,DM,78,0,0,0,0,1,0,0,0,2,2,1,0,0,0,0,0.0,0.0
+Christopher Braun,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Christopher Braun,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Christopher Braun,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Christopher Braun,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,RB,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Christopher Braun,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0,2,2,1,0,0.0,0.0
+Christopher Braun,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,RB,80,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0.0,0.0
+Christopher Braun,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,RB,82,0,0,0,0,0,0,0,0,0,3,0,2,1,0,0,0.0,0.0
+Christopher Braun,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,0.0,0.0
+Christopher Braun,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,LB,90,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0.0,0.0
+Claudiu Micovschi,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,AM,64,0,0,0,0,0,0,0,0,1,0,1,5,1,0,0,0.0,0.0
+Claudiu Micovschi,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,AM,45,0,0,0,0,0,0,0,0,1,1,2,2,1,0,0,0.0,0.0
+Claudiu Micovschi,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Micovschi,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,AM,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Claudiu Petrila,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,LW,66.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Claudiu Petrila,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,AM,90.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0
+Claudiu Petrila,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,AM,70.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+Claudiu Petrila,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,35.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
+Claudiu Petrila,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,AM,66.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0
+Claudiu Petrila,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,AM,89.0,0.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,5.0,1.0,2.0,0.0,0.0,0.0
+Claudiu Petrila,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,DM,77.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1.0,0.0,0.0,0.0,0.0
+Constantin Grameni,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,AM,76,0,1,0,0,1,0,0,0,2,4,0,1,0,1,0,0.0,0.0
+Constantin Grameni,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Constantin Grameni,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Constantin Grameni,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,21,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0
+Constantin Grameni,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,DM,65,1,0,0,0,1,1,1,0,1,1,0,2,1,1,0,0.0,0.0
+Constantin Grameni,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Constantin Grameni,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Cristian Manea,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,RB,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Cristian Manea,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,RB,73.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,0.0,0.0,0.0
+Cristian Manea,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,RB,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0
+Cristian Manea,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,RB,49.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,1.0,0.0,0.0,0.0
+Cristian Manea,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,RB,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,2.0,0.0,0.0,0.0
+Denis Ciobotariu,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0.0,0.0
+Denis Ciobotariu,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0.0,0.0
+Denis Ciobotariu,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0.0,0.0
+Denis Ciobotariu,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,CB,90,0,0,0,0,1,1,0,0,1,1,0,0,0,4,0,0.0,0.0
+Denis Ciobotariu,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,CB,90,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0.0,0.0
+Denis Ciobotariu,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,2,1,0,0.0,0.0
+Denis Ciobotariu,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0.0,0.0
+Denis Ciobotariu,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,CB,90,1,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0.0,0.0
+Drilon Hazrollaj,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,AM,24,0,0,0,0,1,0,0,0,1,3,0,0,1,0,0,0.0,0.0
+Drilon Hazrollaj,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,AM,17,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Drilon Hazrollaj,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,20,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0.0,0.0
+Drilon Hazrollaj,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Drilon Hazrollaj,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,45,0,0,0,0,3,2,0,0,0,3,0,0,1,1,0,0.0,0.0
+Drilon Hazrollaj,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,AM,55,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,FW,51,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,FW,62,1,0,0,0,2,1,1,0,1,0,0,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,FW,35,2,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,FW,65,1,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0.0,0.0
+Elvir Koljić,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,FW,74,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0.0,0.0
+Elvir Koljić,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,FW,62,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Filip Blažek,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Blažek,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Blažek,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Blažek,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,GK,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,GK,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Franz Stolz,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Gheorghe,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,AM,12,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0.0,0.0
+Jakub Hromada,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,DM,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Jakub Hromada,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,DM,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0
+Jakub Hromada,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,DM,70.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jakub Hromada,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,DM,83.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jakub Hromada,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,DM,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jakub Hromada,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,DM,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jakub Hromada,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,DM,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Jakub Hromada,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,DM,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+Kader Keita,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,DM,90,0,0,0,0,0,0,0,0,2,1,0,1,5,2,0,0.0,0.0
+Kader Keita,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,DM,90,0,0,0,0,3,2,0,0,1,4,0,0,1,1,0,0.0,0.0
+Kader Keita,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,DM,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0
+Kader Keita,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,DM,90,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0.0,0.0
+Kader Keita,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,DM,90,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0.0,0.0
+Kader Keita,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,DM,90,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0.0,0.0
+Kader Keita,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,DM,90,0,0,0,0,1,0,0,0,2,1,0,0,1,3,0,0.0,0.0
+Kader Keita,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,DM,90,0,0,0,0,1,0,1,0,4,1,0,0,0,1,0,0.0,0.0
+Kader Keita,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,DM,90,0,0,0,0,1,1,0,0,2,1,0,1,2,1,0,0.0,0.0
+Lars Kramer,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Lars Kramer,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,CB,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Lars Kramer,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,1,1,0,0,0,0,0,1,2,1,0,0.0,0.0
+Lars Kramer,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,2,0,0.0,0.0
+Lars Kramer,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0.0
+Lars Kramer,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,CB,90,0,0,0,0,4,0,0,0,2,0,0,0,1,2,0,0.0,0.0
+Lars Kramer,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0.0,0.0
+Lars Kramer,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0.0,0.0
+Lars Kramer,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0
+Luka Gojković,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luka Gojković,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,AM,12,0,0,0,0,2,0,0,0,0,1,0,1,1,0,0,0.0,0.0
+Luka Gojković,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,20,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0.0,0.0
+Luka Gojković,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,AM,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luka Gojković,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,52,0,0,0,0,0,0,0,0,0,2,1,8,1,0,0,0.0,0.0
+Luka Gojković,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,AM,55,0,0,0,0,1,0,0,0,0,2,0,8,0,0,0,0.0,0.0
+Luka Gojković,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luka Gojković,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luka Gojković,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Aioani,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihai Dobre,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,RW,90,2,0,0,0,4.0,3.0,0,0,0.0,2.0,0.0,1.0,1.0,1.0,0,0.0,0.0
+Mihai Dobre,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,AM,90,0,0,0,0,4.0,2.0,0,0,1.0,1.0,0.0,3.0,0.0,1.0,0,0.0,0.0
+Mihai Dobre,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,AM,89,0,0,0,0,4.0,1.0,0,0,0.0,0.0,0.0,3.0,0.0,0.0,0,0.0,0.0
+Mihai Dobre,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,AM,90,0,0,0,0,3.0,1.0,0,0,3.0,1.0,0.0,2.0,2.0,0.0,0,0.0,0.0
+Mihai Dobre,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y*,AM,90,1,0,0,0,2.0,1.0,0,0,1.0,3.0,0.0,1.0,2.0,1.0,0,0.0,0.0
+Mihai Dobre,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y*,AM,90,0,0,0,0,2.0,1.0,0,0,0.0,3.0,0.0,2.0,1.0,0.0,0,0.0,0.0
+Mihai Dobre,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y*,AM,90,0,0,0,0,4.0,2.0,0,0,1.0,2.0,0.0,4.0,1.0,0.0,0,0.0,0.0
+Mihai Dobre,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y*,AM,90,1,0,0,0,4.0,1.0,0,0,1.0,1.0,0.0,2.0,0.0,0.0,0,0.0,0.0
+Mihai Dobre,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y*,DM,45,0,0,0,0,0.0,0.0,0,0,2.0,1.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Omar El Sawy,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,AM,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Sawy,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,AM,73,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,N,AM,26,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+Rareș Pop,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,AM,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0
+Rareș Pop,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Rareș Pop,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,AM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Razvan Onea,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y*,RB,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+Razvan Onea,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y*,LB,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Razvan Onea,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y*,RB,66.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0
+Razvan Onea,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y*,RB,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,2.0,1.0,0.0,0.0,0.0
+Razvan Onea,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,RB,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Timotej Jambor,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,N,FW,39,0,0,0,0,0,0,1,0,3,2,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,FW,66,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,FW,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,N,FW,21,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,N,FW,8,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0
+Timotej Jambor,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Timotej Jambor,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tobias Christensen,2025-07-11,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,Argeș Pitești,Y,AM,75,0,0,0,0,1,1,1,0,1,3,0,0,0,0,0,0.0,0.0
+Tobias Christensen,2025-07-20,Sun,Liga I,Regular season,Home,D 1–1,Rapid București,CFR Cluj,Y,DM,78,0,0,0,0,1,0,0,0,2,0,0,3,0,2,0,0.0,0.0
+Tobias Christensen,2025-07-25,Fri,Liga I,Regular season,Away,W 2–0,Rapid București,FC Csikszereda Miercurea Ciuc,Y,AM,90,0,1,0,0,2,0,1,0,1,1,0,2,1,0,0,0.0,0.0
+Tobias Christensen,2025-08-04,Mon,Liga I,Regular season,Home,W 2–1,Rapid București,Botoșani,Y,AM,90,0,0,0,0,3,2,0,0,0,0,0,3,2,0,0,0.0,0.0
+Tobias Christensen,2025-08-11,Mon,Liga I,Regular season,Away,D 1–1,Rapid București,Oțelul Galați,Y,AM,89,0,0,0,0,2,1,0,0,0,1,0,5,1,0,0,0.0,0.0
+Tobias Christensen,2025-08-17,Sun,Liga I,Regular season,Home,D 2–2,Rapid București,FCSB,Y,DM,69,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0
+Tobias Christensen,2025-08-22,Fri,Liga I,Regular season,Away,W 2–1,Rapid București,FC Metaloglobus București,Y,AM,82,0,1,0,0,3,0,0,0,0,2,0,0,0,3,0,0.0,0.0
+Tobias Christensen,2025-08-29,Fri,Liga I,Regular season,Home,W 2–0,Rapid București,UTA Arad,Y,AM,89,0,0,0,0,2,1,0,0,2,3,0,4,1,1,0,0.0,0.0
+Tobias Christensen,2025-09-12,Fri,Liga I,Regular season,Away,D 0–0,Rapid București,Universitatea Cluj,Y,AM,90,0,0,0,0,3,1,0,0,0,0,0,1,1,1,0,0.0,0.0
+Adrian Caragea,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,LW,9,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,LW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,LW,20,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,LW,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0.0,0.0
+Adrian Caragea,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,LW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,LW,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,LW,24,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0.0,0.0
+Adrian Caragea,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,LW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Adrian Caragea,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,LW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Musi,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,FW,81,1,0,0,0,1,1,0,0,1,2,0,0,1,0,0,0.0,0.0
+Alexandru Musi,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,FW,90,0,0,0,0,1,0,0,0,1,3,1,2,0,0,0,0.0,0.0
+Alexandru Musi,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,FW,90,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0.0
+Alexandru Musi,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,FW,89,1,0,0,0,2,2,0,0,1,2,0,1,0,0,0,0.0,0.0
+Alexandru Musi,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,AM,80,0,0,0,0,5,0,0,0,0,2,0,0,1,0,0,0.0,0.0
+Alexandru Musi,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,FW,78,0,0,0,0,2,2,0,0,1,2,1,3,0,0,0,0.0,0.0
+Alexandru Musi,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,FW,66,0,0,0,0,2,0,1,0,2,0,1,0,0,0,0,0.0,0.0
+Alexandru Musi,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,FW,73,0,0,0,0,1,0,0,0,1,3,0,2,0,0,0,0.0,0.0
+Alexandru Musi,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,FW,90,0,1,0,0,0,0,0,0,2,4,0,1,1,0,0,0.0,0.0
+Alexandru Pop,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,FW,58,0,0,0,0,0,0,1,0,1,2,1,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,FW,32,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0.0,0.0
+Alexandru Pop,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,FW,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,FW,68,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,FW,58,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.0,0.0
+Alexandru Pop,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,FW,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,FW,14,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,FW,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Pop,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,FW,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0
+Alexandru Roșca,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Roșca,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,GK,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,RB,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru-Simion Tabuncic,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Antonio Bordusanu,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,RW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Antonio Bordusanu,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,RW,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,0.0
+Antonio Bordusanu,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,RW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Charalambos Kyriakou,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,CM,67,0,0,0,0,1,1,0,0,1,0,0,3,0,2,0,0.0,0.0
+Charalambos Kyriakou,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,CM,58,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0.0,0.0
+Charalambos Kyriakou,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,CM,90,0,0,0,0,1,1,0,0,1,0,0,2,1,1,0,0.0,0.0
+Charalambos Kyriakou,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,CM,55,0,0,0,0,0,0,0,0,1,0,0,4,1,1,0,0.0,0.0
+Charalambos Kyriakou,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,DM,58,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0
+Charalambos Kyriakou,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,CM,45,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0
+Charalambos Kyriakou,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,CM,90,0,0,0,0,1,1,0,0,1,1,0,6,1,2,0,0.0,0.0
+Charalambos Kyriakou,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,CM,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Charalambos Kyriakou,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,CM,22,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Cristian Mihai,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,CM,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cristian Mihai,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,CM,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+Cristian Mihai,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,CM,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cristian Mihai,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,CM,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Cristian Mihai,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,CM,44.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+Cristian Mihai,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,CM,85.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Cătălin Cîrjan,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y*,CM,90,0,1,0,0,4,2,0,0,1,1,0,1,1,0,0,0.0,0.0
+Cătălin Cîrjan,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y*,CM,90,0,0,0,0,2,0,0,0,3,1,1,1,0,0,0,0.0,0.0
+Cătălin Cîrjan,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y*,CM,90,0,0,0,0,3,1,1,0,0,3,0,0,2,0,0,0.0,0.0
+Cătălin Cîrjan,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y*,CM,90,0,0,0,0,3,1,0,0,3,2,0,0,0,1,0,0.0,0.0
+Cătălin Cîrjan,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y*,AM,90,1,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0.0,0.0
+Cătălin Cîrjan,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y*,CM,90,0,1,0,0,4,1,0,0,1,2,0,2,0,0,0,0.0,0.0
+Cătălin Cîrjan,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y*,CM,90,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0.0,0.0
+Cătălin Cîrjan,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y*,CM,90,0,0,0,0,4,1,0,0,2,2,0,0,0,0,0,0.0,0.0
+Cătălin Cîrjan,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y*,CM,90,1,1,0,0,1,1,0,0,1,2,0,0,0,1,0,0.0,0.0
+Daniel Armstrong,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,FW,67,0,0,0,0,2,1,0,0,1,1,0,12,2,1,0,0.0,0.0
+Daniel Armstrong,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,FW,58,0,0,0,0,1,1,0,0,1,1,0,4,2,0,0,0.0,0.0
+Daniel Armstrong,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,FW,70,0,0,0,0,0,0,1,0,1,1,0,6,0,0,0,0.0,0.0
+Daniel Armstrong,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,FW,90,3,0,2,2,3,3,0,0,2,3,1,4,0,0,0,0.0,0.0
+Daniel Armstrong,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,AM,80,0,0,0,0,1,1,0,0,1,0,1,11,3,1,0,0.0,0.0
+Daniel Armstrong,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,FW,89,0,0,0,0,0,0,0,0,1,0,0,14,0,1,0,0.0,0.0
+Daniel Armstrong,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,FW,76,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0,0.0,0.0
+Daniel Armstrong,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,FW,58,0,0,0,0,1,0,0,0,0,1,0,8,2,0,0,0.0,0.0
+Daniel Armstrong,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,FW,90,1,0,0,0,1,1,0,0,1,2,1,12,1,0,0,0.0,0.0
+Devis Epassy,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Devis Epassy,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Eddy Gnahoré,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,CM,90,1,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0.0,0.0
+Eddy Gnahoré,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,CM,90,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0.0,0.0
+Eddy Gnahoré,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,CM,90,0,0,0,0,1,0,1,0,0,0,0,0,2,2,0,0.0,0.0
+Eddy Gnahoré,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,CM,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.0
+Eddy Gnahoré,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,DM,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Eddy Gnahoré,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,CM,90,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0.0,0.0
+Eddy Gnahoré,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,CM,90,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0.0
+Eddy Gnahoré,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,CM,90,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0.0,0.0
+Eddy Gnahoré,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,CM,90,0,0,0,0,1,0,0,0,0,4,0,0,1,1,0,0.0,0.0
+Georgi Milanov,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,CM,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,CM,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,CM,22.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,CM,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,CM,28.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,CM,32.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Georgi Milanov,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,CM,68.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hakim Abdallah,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,FW,23,0,0,0,0,1.0,1.0,0,0,2.0,2.0,0.0,1.0,0.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-07-26,Sat,Liga I,Regular season,Home,W 1–0,UTA Arad,Hermannstadt,Y,FW,90,0,1,0,0,0.0,0.0,0,0,2.0,1.0,1.0,0.0,1.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-08-01,Fri,Liga I,Regular season,Away,W 2–1,UTA Arad,Petrolul Ploiești,Y,FW,90,0,0,0,0,2.0,0.0,0,0,0.0,4.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-08-09,Sat,Liga I,Regular season,Home,W 2–1,UTA Arad,Farul Constanța,Y,FW,90,0,0,0,0,3.0,2.0,0,0,0.0,2.0,1.0,0.0,0.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-08-15,Fri,Liga I,Regular season,Away,D 1–1,UTA Arad,Dinamo,Y,FW,90,1,0,0,0,5.0,3.0,0,0,1.0,3.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-08-22,Fri,Liga I,Regular season,Home,D 1–1,UTA Arad,Unirea Slobozia,Y,FW,90,0,0,0,0,4.0,2.0,0,0,0.0,1.0,3.0,1.0,0.0,0.0,0,0.0,0.0
+Hakim Abdallah,2025-08-29,Fri,Liga I,Regular season,Away,L 0–2,UTA Arad,Rapid București,Y,FW,90,0,0,0,0,2.0,1.0,0,0,1.0,3.0,0.0,0.0,1.0,0.0,0,0.0,0.0
+Iulius Marginean,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,1,0,0,3,1,0,0,0,0,0,3,3,1,0,0.0,0.0
+Iulius Marginean,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,CB,90,0,0,0,0,2,1,0,0,0,2,0,0,1,0,0,0.0,0.0
+Iulius Marginean,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,CB,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Jordan Ikoko,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jordan Ikoko,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jordan Ikoko,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,RB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jordan Ikoko,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,RB,85,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0.0,0.0
+Jordan Ikoko,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,RB,90,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0.0,0.0
+Jordan Ikoko,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,RB,57,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0.0,0.0
+Jordan Ikoko,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,RB,85,0,0,0,0,1,0,0,0,1,0,0,2,1,0,0,0.0,0.0
+Jordan Ikoko,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,RB,81,0,0,0,0,1,1,0,0,0,1,0,3,2,1,0,0.0,0.0
+Kennedy Boateng,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0.0,0.0
+Kennedy Boateng,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,CB,90,0,0,0,0,4,0,0,0,1,3,1,0,1,1,0,0.0,0.0
+Kennedy Boateng,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,CB,90,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0.0,0.0
+Kennedy Boateng,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,CB,90,0,0,0,0,1,0,1,0,4,2,0,0,1,1,0,0.0,0.0
+Kennedy Boateng,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,CB,90,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0.0,0.0
+Kennedy Boateng,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,CB,90,0,0,0,0,1,0,0,0,0,2,0,1,0,1,0,0.0,0.0
+Kennedy Boateng,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,CB,90,0,0,0,0,0,0,1,0,0,2,1,0,1,1,0,0.0,0.0
+Kennedy Boateng,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,CB,90,1,0,0,0,4,2,0,0,1,1,0,0,2,1,0,0.0,0.0
+Kennedy Boateng,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,CB,90,0,0,0,0,1,0,0,0,2,3,0,0,2,1,0,0.0,0.0
+Mamoudou Karamoko,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,FW,32.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,FW,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,FW,70.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,FW,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,FW,45.0,1.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,FW,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,FW,90.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+Mamoudou Karamoko,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,FW,81.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Maxime Sivis,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,3.0,1.0,0.0,0.0
+Maxime Sivis,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,RB,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0
+Maxime Sivis,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,RB,90.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,4.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0
+Maxime Sivis,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,RB,90.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0
+Maxime Sivis,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,RB,33.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Maxime Sivis,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,RB,9.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+Nikita Stoinov,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,0.0
+Nikita Stoinov,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0.0
+Nikita Stoinov,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,CB,90,0,0,0,0,3,0,0,0,0,0,0,0,1,2,0,0.0,0.0
+Nikita Stoinov,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0
+Nikita Stoinov,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0.0,0.0
+Nikita Stoinov,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,CB,90,0,0,0,0,1,1,0,0,0,2,0,0,1,1,0,0.0,0.0
+Raul Oprut,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,Y,LB,90,0,0,0,0,0,0,0,0,3,3,0,5,4,0,0,0.0,0.0
+Raul Oprut,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,Y,LB,90,0,0,0,0,0,0,0,0,0,2,0,4,0,5,0,0.0,0.0
+Raul Oprut,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,Y,LB,90,0,0,0,0,1,0,0,0,2,0,0,8,2,2,0,0.0,0.0
+Raul Oprut,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,Y,LB,90,0,0,0,0,1,0,0,0,3,0,1,6,0,0,0,0.0,0.0
+Raul Oprut,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,Y,LB,90,0,0,0,0,1,0,0,0,2,0,0,1,1,2,0,0.0,0.0
+Raul Oprut,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,Y,LB,54,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Raul Oprut,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,Y,LB,90,0,0,0,0,1,1,0,0,1,1,0,2,2,4,0,0.0,0.0
+Raul Oprut,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0.0,0.0
+Raul Oprut,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,Y,LB,70,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0
+Răzvan Pașcalău,2025-07-14,Mon,Liga I,Regular season,Away,D 2–2,Dinamo,FC Csikszereda Miercurea Ciuc,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-07-21,Mon,Liga I,Regular season,Home,D 0–0,Dinamo,Botoșani,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-07-27,Sun,Liga I,Regular season,Away,L 1–2,Dinamo,Oțelul Galați,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-08-02,Sat,Liga I,Regular season,Home,W 4–3,Dinamo,FCSB,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-08-15,Fri,Liga I,Regular season,Home,D 1–1,Dinamo,UTA Arad,N,CB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-08-23,Sat,Liga I,Regular season,Away,W 1–0,Dinamo,Universitatea Cluj,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Răzvan Pașcalău,2025-08-30,Sat,Liga I,Regular season,Home,W 2–0,Dinamo,Hermannstadt,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stipe Perica,2025-08-08,Fri,Liga I,Regular season,Away,W 1–0,Dinamo,FC Metaloglobus București,N,FW,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stipe Perica,2025-09-15,Mon,Liga I,Regular season,Away,W 3–0,Dinamo,Petrolul Ploiești,N,FW,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adrian Rus,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,CB,12,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,FW,20.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,FW,73.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,FW,73.0,0.0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,FW,89.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,FW,67.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,FW,90.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aimé Steven Nsimba Labe,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,FW,72.0,1.0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Alexandru Cicâldău,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CM,13,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0.0,0.0
+Alexandru Cicâldău,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y*,AM,45,0,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0.0,0.0
+Alexandru Cicâldău,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Cicâldău,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Cicâldău,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,CM,30,0,1,0,0,1,1,0,0,0,0,0,2,0,0,0,0.0,0.0
+Alexandru Cicâldău,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,CM,60,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0.0,0.0
+Alexandru Cicâldău,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CM,80,1,0,0,0,1,1,0,0,1,2,0,1,2,1,0,0.0,0.0
+Alexandru Cicâldău,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0,6,1,0,0,0.0,0.0
+Alexandru Crețu,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,CM,29,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0
+Alexandru Crețu,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexandru Crețu,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,DM,70,0,0,0,0,3,0,1,0,0,1,0,2,3,2,0,0.0,0.0
+Alexandru Crețu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,CM,90,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.0,0.0
+Alexandru Crețu,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,DM,90,0,0,0,0,1,0,0,0,1,0,0,0,3,2,0,0.0,0.0
+Alexandru Crețu,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CM,60,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0.0,0.0
+Alexandru Crețu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,CM,90,1,0,0,0,5,2,0,0,2,0,1,2,1,2,0,0.0,0.0
+Alexandru Crețu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CM,59,0,0,0,0,4,1,0,0,1,0,0,1,1,2,0,0.0,0.0
+Alexandru Crețu,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Andrei Ivan,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,FW,87,1,0,0,0,2.0,1.0,0,0,0.0,2.0,0.0,0.0,2.0,0.0,0,0.0,0.0
+Andrei Ivan,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,FW,14,0,0,0,0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0
+Andrei Ivan,2025-08-24,Sun,Super League,Regular season,Away,L 0–2,Panserraikos,AEK Athens,Y,FW,83,0,0,0,0,,,0,0,,,,,,,0,0.0,0.0
+Andrei Ivan,2025-08-30,Sat,Super League,Regular season,Home,L 0–1,Panserraikos,OFI Crete,Y,FW,90,0,0,0,0,,,1,0,,,,,,,0,0.0,0.0
+Andrei Ivan,2025-09-13,Sat,Super League,Regular season,Away,L 0–5,Panserraikos,Olympiacos,Y,FW,89,0,0,0,0,,,0,0,,,,,,,0,0.0,0.0
+Anzor Mekvabishvili,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,CM,28,0,0,0,0,1,0,0,0,2,0,0,0,2,0,0,0.0,0.0
+Anzor Mekvabishvili,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Anzor Mekvabishvili,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,DM,81,0,0,0,0,2,0,0,0,0,1,0,0,3,1,0,0.0,0.0
+Anzor Mekvabishvili,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,CM,89,0,2,0,0,1,1,0,0,1,1,0,0,1,1,0,0.0,0.0
+Anzor Mekvabishvili,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,DM,86,0,1,0,0,1,0,0,0,1,1,0,1,2,0,0,0.0,0.0
+Anzor Mekvabishvili,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CM,90,0,0,0,0,1,0,0,0,1,2,0,1,3,0,0,0.0,0.0
+Anzor Mekvabishvili,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,CM,90,0,1,0,0,2,1,0,0,0,1,0,2,2,3,0,0.0,0.0
+Anzor Mekvabishvili,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CM,90,0,0,0,0,2,2,0,0,1,0,0,2,1,2,0,0.0,0.0
+Anzor Mekvabishvili,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,CM,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Assad Al Hamalawi,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,FW,76.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,FW,90.0,2.0,0.0,1.0,1.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,FW,17.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,FW,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,FW,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,FW,23.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Assad Al Hamalawi,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,FW,84.0,0.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0
+Basilio Owono,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,LB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Basilio Owono,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,LB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Basilio Owono,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,LB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Basilio Owono,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,LB,36,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0.0
+Carlos Mora,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,DM,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Carlos Mora,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,DM,90,0,0,0,0,2,0,0,0,1,1,1,5,0,3,0,0.0,0.0
+Carlos Mora,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Carlos Mora,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Carlos Mora,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,DM,25,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0.0,0.0
+Carlos Mora,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,DM,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Carlos Mora,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,CB,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Darius Fălcușan,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Barbu,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Barbu,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,FW,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+David Barbu,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Barbu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,FW,31,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0.0,0.0
+David Barbu,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Barbu,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Barbu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,FW,23,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+David Barbu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,FW,31,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0.0,0.0
+David Barbu,2025-09-13,Sat,Liga I,Regular season,Home,D 3–3,UTA Arad,Argeș Pitești,N,FW,58,1,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0.0,0.0
+David Matei,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CM,60,0,0,0,0,1,0,0,0,1,1,0,2,2,0,0,0.0,0.0
+David Matei,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,CM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+David Matei,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CM,71,0,0,0,0,0,0,1,0,1,2,0,1,1,1,0,0.0,0.0
+Florin Ștefan,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,LM,59,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0.0,0.0
+Florin Ștefan,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,DM,54,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0
+Florin Ștefan,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,LM,65,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0.0,0.0
+Florin Ștefan,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,LB,90,0,1,0,0,0,0,0,0,0,1,0,4,1,1,0,0.0,0.0
+Florin Ștefan,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,LM,90,0,0,0,0,0,0,0,0,0,0,0,3,2,2,0,0.0,0.0
+Florin Ștefan,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,RM,72,0,0,0,0,0,0,0,0,1,1,0,2,2,1,0,0.0,0.0
+Jovan Marković,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,FW,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jovan Marković,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jovan Marković,2025-08-18,Mon,Liga I,Regular season,Home,L 0–1,Farul Constanța,Universitatea Cluj,N,FW,18,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Jovan Marković,2025-08-25,Mon,Liga I,Regular season,Away,L 0–1,Farul Constanța,Hermannstadt,N,FW,27,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+Jovan Marković,2025-09-01,Mon,Liga I,Regular season,Home,W 2–1,Farul Constanța,Petrolul Ploiești,N,FW,45,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0.0,0.0
+Jovan Marković,2025-09-14,Sun,Liga I,Regular season,Away,L 0–2,Farul Constanța,CS U Craiova,N,FW,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0
+Juraj Badelj,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Juraj Badelj,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0
+Juraj Badelj,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Juraj Badelj,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Juraj Badelj,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Juraj Badelj,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,CB,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Juraj Badelj,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0.0,0.0
+Luca-Constantin Basceanu,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,FW,59,0,0,0,0,2,0,1,0,2,2,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,AM,54,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,FW,59,0,0,0,0,3,1,0,0,0,1,1,2,0,1,0,0.0,0.0
+Luca-Constantin Basceanu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Luca-Constantin Basceanu,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Lyes Houri,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,AM,61,0,2,0,0,0,0,0,0,1,3,0,3,0,0,0,0.0,0.0
+Lyes Houri,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,AM,77,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0.0,0.0
+Lyes Houri,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,FW,45,0,0,0,0,1,0,0,0,1,3,0,2,0,0,0,0.0,0.0
+Lyes Houri,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,FW,72,0,1,0,0,0,0,1,0,2,3,0,1,3,0,0,0.0,0.0
+Lyes Houri,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,AM,74,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0.0,0.0
+Lyes Houri,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,FW,64,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0.0,0.0
+Lyes Houri,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,FW,81,0,0,0,0,0,0,0,0,1,2,0,3,0,0,0,0.0,0.0
+Lyes Houri,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,FW,80,0,0,0,0,0,0,0,0,2,3,1,4,1,2,0,0.0,0.0
+Lyes Houri,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Mihnea Radulescu,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,DM,61,0,0,0,0,2,1,0,0,2,1,0,2,1,0,0,0.0,0.0
+Mihnea Radulescu,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,DM,82,1,0,0,0,1,1,0,0,1,1,0,3,0,2,0,0.0,0.0
+Mihnea Radulescu,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,DM,90,0,0,0,0,0,0,0,0,1,2,0,14,1,1,0,0.0,0.0
+Mihnea Radulescu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,RM,90,1,0,0,0,2,1,1,0,0,3,0,2,1,2,0,0.0,0.0
+Mihnea Radulescu,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,DM,90,0,0,0,0,1,1,0,0,1,2,0,1,1,0,0,0.0,0.0
+Mihnea Radulescu,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,RM,90,0,0,0,0,0,0,0,0,0,1,0,3,1,1,0,0.0,0.0
+Mihnea Radulescu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,RB,67,0,0,0,0,4,2,0,0,2,2,0,1,3,1,0,0.0,0.0
+Mihnea Radulescu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,RM,59,0,0,0,0,1,0,0,0,0,0,0,5,1,0,0,0.0,0.0
+Mihnea Radulescu,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,DM,19,0,0,0,0,1,1,0,0,0,2,0,0,2,1,0,0.0,0.0
+Monday Etim,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,AM,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Nicușor Bancu,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y*,DM,90,0,0,0,0,1,0,0,0,0,0,0,4,2,3,0,0.0,0.0
+Nicușor Bancu,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y*,DM,90,0,0,0,0,0,0,0,0,1,2,0,2,3,1,0,0.0,0.0
+Nicușor Bancu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,DM,31,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0
+Nicușor Bancu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Nicușor Bancu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,DM,31,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0
+Nicușor Bancu,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y*,LM,90,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0.0,0.0
+Nikola Stevanović,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0.0,0.0
+Nikola Stevanović,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,CB,90,0,0,0,0,0,0,0,0,2,0,0,1,3,1,0,0.0,0.0
+Nikola Stevanović,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,CB,70,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0.0,0.0
+Nikola Stevanović,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,CB,90,0,0,0,0,0,0,1,0,4,0,0,0,0,1,0,0.0,0.0
+Nikola Stevanović,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,CB,90,0,0,0,0,1,0,0,0,0,1,0,0,2,4,0,0.0,0.0
+Nikola Stevanović,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0.0,0.0
+Nikola Stevanović,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0.0
+Oleksandr Romanchuk,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,CB,67,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0.0,0.0
+Oleksandr Romanchuk,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0.0
+Oleksandr Romanchuk,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,CB,90,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Oleksandr Romanchuk,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Oleksandr Romanchuk,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,CB,90,1,0,0,0,1,1,1,0,3,0,0,0,1,2,0,0.0,0.0
+Oleksandr Romanchuk,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Oleksandr Romanchuk,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,CB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Oleksandr Romanchuk,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0.0,0.0
+Oleksandr Romanchuk,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CB,90,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0.0,0.0
+Pavlo Isenko,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Pavlo Isenko,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+Pavlo Isenko,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Pavlo Isenko,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Pavlo Isenko,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Pavlo Isenko,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y*,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.0,0.0
+Silviu Lung Jr.,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Silviu Lung Jr.,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,GK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,FW,90,1,0,1,1,2,1,0,0,1,3,2,0,0,1,0,0.0,0.0
+Stefan Baiaram,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,AM,82,1,0,0,0,1,1,1,0,0,4,0,0,1,0,0,0.0,0.0
+Stefan Baiaram,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,FW,90,0,0,0,0,3,2,0,0,0,3,1,0,2,0,0,0.0,0.0
+Stefan Baiaram,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,FW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,FW,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,FW,26,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,FW,31,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,FW,10,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0.0,0.0
+Stefan Baiaram,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,FW,18,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0.0,0.0
+Teles,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,DM,62,0,0,0,0,2,0,1,0,2,1,0,1,2,1,0,0.0,0.0
+Teles,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,DM,89,0,0,0,0,1,0,1,0,2,2,0,0,2,0,0,0.0,0.0
+Teles,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,DM,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0
+Teles,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Teles,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,DM,16,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0.0,0.0
+Teles,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,DM,30,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0.0,0.0
+Teles,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Teles,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Teles,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,DM,90,0,0,0,0,1,0,0,0,1,0,0,0,2,5,0,0.0,0.0
+Tudor Băluță,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,DM,90,0,0,0,0,2,0,0,0,3,1,0,0,3,3,0,0.0,0.0
+Tudor Băluță,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,DM,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,DM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,DM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Tudor Băluță,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,N,DM,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+Tudor Băluță,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CM,90,0,0,0,0,3,0,0,0,1,2,0,0,2,2,0,0.0,0.0
+Vasile Mogos,2025-07-12,Sat,Liga I,Regular season,Away,D 3–3,CS U Craiova,UTA Arad,Y,CB,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0.0
+Vasile Mogos,2025-07-18,Fri,Liga I,Regular season,Home,W 3–1,CS U Craiova,Argeș Pitești,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,0.0,0.0
+Vasile Mogos,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,Y,CB,70,0,0,0,0,1,0,0,0,0,0,0,1,1,3,0,0.0,0.0
+Vasile Mogos,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,Y*,CB,90,0,0,0,0,0,0,0,0,2,2,0,0,3,0,0,0.0,0.0
+Vasile Mogos,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0.0,0.0
+Vasile Mogos,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,2,0,1,0,0,0,0,0,1,1,0,0.0,0.0
+Vasile Mogos,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0.0,0.0
+Vasile Mogos,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CB,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Vladimir Screciu,2025-07-28,Mon,Liga I,Regular season,Home,W 2–1,CS U Craiova,Universitatea Cluj,N,CB,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Vladimir Screciu,2025-08-03,Sun,Liga I,Regular season,Away,W 3–2,CS U Craiova,CFR Cluj,N,CB,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Vladimir Screciu,2025-08-10,Sun,Liga I,Regular season,Home,W 1–0,CS U Craiova,Hermannstadt,N,CB,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+Vladimir Screciu,2025-08-17,Sun,Liga I,Regular season,Away,W 2–1,CS U Craiova,FC Csikszereda Miercurea Ciuc,Y,CB,90,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0.0,0.0
+Vladimir Screciu,2025-08-24,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Petrolul Ploiești,N,CB,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0.0
+Vladimir Screciu,2025-08-31,Sun,Liga I,Regular season,Away,D 1–1,CS U Craiova,Botoșani,Y,CB,90,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0.0
+Vladimir Screciu,2025-09-14,Sun,Liga I,Regular season,Home,W 2–0,CS U Craiova,Farul Constanța,Y,CB,78,0,0,0,0,0,0,0,0,1,1,0,0,2,2,0,0.0,0.0

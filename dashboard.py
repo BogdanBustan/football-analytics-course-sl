@@ -178,6 +178,9 @@ if show_def:
 if show_results:
     st.markdown("### Results Analysis")
 
+    if len(df_sel) == 0 or 'Result' not in df_sel.columns or df_sel['Result'].isnull().all():
+        st.info("No result data available for the selected players.")
+        st.stop()
 
     # Prepare results data
     def analyze_results(df):
@@ -252,7 +255,9 @@ if show_results:
 
 if show_minutes:
     st.markdown("### Minutes Analysis")
-
+    if len(df_sel) == 0 or df_sel['Min'].sum() == 0:
+        st.info("No minutes data available for the selected players.")
+        st.stop()
     # Prepare minutes data
     minutes_df = df_sel.groupby('Player').agg(
         total_minutes=('Min', 'sum'),

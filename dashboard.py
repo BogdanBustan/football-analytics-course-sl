@@ -44,7 +44,6 @@ if pos_col:
     sel_positions = st.sidebar.multiselect(
         "Filter by position",
         positions_options,
-        default=st.session_state["sel_positions"],
         key="sel_positions"
     )
 else:
@@ -78,6 +77,7 @@ sel_players = st.sidebar.multiselect(
 st.sidebar.markdown("### Charts")
 show_time = st.sidebar.checkbox("Per-match goals (time series)", value=True)
 show_cum = st.sidebar.checkbox("Cumulative goals", value=True)
+show_minpergoal = st.sidebar.checkbox("Minutes per goal", value=True)
 show_per90 = st.sidebar.checkbox("Per-90 comparison (Gls/Ast/Sh)", value=True)
 show_shots = st.sidebar.checkbox("Shots vs SoT", value=True)
 show_def = st.sidebar.checkbox("Defensive (TklW / Int)", value=True)
@@ -138,6 +138,28 @@ if show_cum:
         fig2 = px.line(cum, x="Date", y="cum_goals", color="Player",
                        title="Cumulative goals", labels={"cum_goals": "Cumulative goals"})
         st.plotly_chart(fig2, use_container_width=True)
+
+if show_minpergoal:
+    st.markdown("### Minutes per Goal")
+    # Calculate minutes per goal
+    mpg_df = df_sel.groupby('Player').agg(
+        total_minutes=('Min', 'sum'),
+        total_goals=('Gls', 'sum')
+    ).reset_index()
+    mpg_df['minutes_per_goal'] = np.where(
+        mpg_df['total_goals'] > 0,
+        mpg_df['total_minutes'] / mpg_df['total_goals'],
+        np.nan  # or set to a high value if you prefer
+    )
+
+    fig_mpg = px.bar(
+        mpg_df,
+        x='Player',
+        y='minutes_per_goal',
+        title='Minutes per Goal',
+        labels={'minutes_per_goal': 'Minutes per Goal'}
+    )
+    st.plotly_chart(fig_mpg, use_container_width=True)
 
 # full width per-90 comparison
 if show_per90:

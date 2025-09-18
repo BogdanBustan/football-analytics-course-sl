@@ -182,23 +182,28 @@ if show_results:
         st.info("No result data available for the selected players.")
         st.stop()
 
-    # Prepare results data
+
     def analyze_results(df):
         # Create a copy of player-match data with result info
         player_results = df.copy()
+
         # Extract result type (W, D, L) from Result column
         player_results['result_type'] = player_results['Result'].str[0]
 
         # Group by player and result type
         results_count = player_results.groupby(['Player', 'result_type']).size().unstack(fill_value=0)
 
+        # Ensure all result types exist (W, D, L)
+        for result_type in ['W', 'D', 'L']:
+            if result_type not in results_count.columns:
+                results_count[result_type] = 0
+
         # Calculate total matches
         results_count['total'] = results_count.sum(axis=1)
 
         # Calculate percentages
         for col in ['W', 'D', 'L']:
-            if col in results_count.columns:
-                results_count[f'{col}_pct'] = round(results_count[col] / results_count['total'] * 100, 1)
+            results_count[f'{col}_pct'] = round(results_count[col] / results_count['total'] * 100, 1)
 
         return results_count.reset_index()
 
